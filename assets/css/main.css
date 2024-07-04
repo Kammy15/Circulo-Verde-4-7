@@ -1080,7 +1080,7 @@ align-items: center;
   background-image: url("../assets/img/fondocard1.PNG");
   background-image: url("fondocard1.png");
   background-image: url("https://kammy15.github.io/circuloverde88/assets/img/fondocard1.png");*/
-  background-image: url(assets/css/fondocard1.png);
+  background-image: url(fondocard1.png);
 
   background-size: cover; /* Asegura que la imagen cubra toda la tarjeta */
   background-position: center; /* Centra la imagen en la tarjeta */
@@ -1181,7 +1181,7 @@ flex-shrink: 0;
 --------------------------------------------------------------*/
 .stats .stats-item {
   background-image: url('fondocardecovoz.png'); /* Ruta de tu imagen de fondo */
-  background-image: url('/assets/css/fondocardecovoz.png');
+
   width: 274px; /* Ancho deseado */
   height: 150px; /* Alto deseado */
   background-size: cover; /* Ajusta el tamaño de la imagen para cubrir completamente el contenedor */
