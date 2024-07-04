@@ -1180,7 +1180,7 @@ flex-shrink: 0;
 # Stats Seccion 1 ecovoz
 --------------------------------------------------------------*/
 .stats .stats-item {
-  background-image: url('fondocardecovoz.png'); /* Ruta de tu imagen de fondo */
+ /* background-image: url('fondocardecovoz.png'); /* Ruta de tu imagen de fondo */
 
   width: 274px; /* Ancho deseado */
   height: 150px; /* Alto deseado */
